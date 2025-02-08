@@ -7,7 +7,7 @@
 
 [![Github](https://img.shields.io/github/followers/OGTechOptimizer?label=Follow&style=social)](https://github.com/OGTechOptimizer)
 
-Hey there! I’m a Game & PC Optimization Expert, passionate about making your gaming experience smoother and faster. Whether it's boosting your FPS, reducing latency, or optimizing your PC, I love helping gamers get the most out of their setups.
+Hey there! I’m a Game & PC Optimization Expert, passionate about making your gaming experience smoother and faster. Whether it's boosting your FPS, reducing latency, or optimizing your PC.
 
 - 📫 How to reach me: officialogtech@gmail.com
 
